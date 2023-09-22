@@ -1,4 +1,4 @@
-# toy-web-socket-front
+# Gs-Retail ChatSystem 
 
 ## react
 
