@@ -44,3 +44,6 @@ test code들 제거.
 1. socket server는 mocking 해야하고 실제 서버에 요청을 보내면 안된다.
 2. request는 intercept하고 response는 stub한다.
 3. cypress를 사용하자.
+
+참고사항 
+test code는 서버 살이있는 여부와 상관없이 돌아갑니다. 
