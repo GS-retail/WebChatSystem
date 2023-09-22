@@ -2,7 +2,7 @@
 
 ## react
 
-처음 써본 기술 목록
+react tech list
 
 - socket.io
 - bootstrap
